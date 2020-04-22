@@ -1,0 +1,4 @@
+requests
+SQLAlchemy
+beautifulsoup4
+pandas
